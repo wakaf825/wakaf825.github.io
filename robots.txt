@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wakaf825.github.io/sitemap.xml
